@@ -2,11 +2,12 @@
 
 A polished e-commerce style web app built with **Next.js (App Router)**, **Firebase Authentication**, and **Tailwind CSS**. Revenio showcases a curated catalog of products with public browsing pages and protected pages for managing your own listings.
 
-## Live Demo & Repo
-
-- **Live demo:** _add your Vercel URL here_
-- **GitHub repo:** _add your repo URL here_
-
+## Live Demo & Repo & Admin access
+- **Admin email: admin@revenio.com
+- **Admin pass: Admin@1234
+- **Live demo:** [_add your Vercel URL here_](https://revenio-next.vercel.app/)
+- **GitHub repo:** [_add your repo URL here_
+](https://github.com/MasumRezaMunna/Revenio-Next.git)
 ## Key Features
 
 - **Responsive landing page** with 7 sections: sticky navbar, hero, featured products, trust badges, category browser, testimonials, and CTA banner.
